@@ -11,4 +11,4 @@ My first repository
 
 ## The Lastikman Cast.
 
-![ ]([image.jpg](https://upload.wikimedia.org/wikipedia/en/6/6b/Lastikman_Cast.jpg)
+![ ](https://upload.wikimedia.org/wikipedia/en/6/6b/Lastikman_Cast.jpg)
