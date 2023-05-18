@@ -13,6 +13,8 @@ My first repository
 
 ![ ](https://upload.wikimedia.org/wikipedia/en/6/6b/Lastikman_Cast.jpg)
 
-**Why I love Lastikman?**
+**Reasons why I love Lastikman?**
 
-Lastik Man makes my childhood awesome. Watching Lastik Man made me happy and inspired me to help people in need because everytime Lastik Man help others he made people happy and thankful. I also want to be like him too.
+1. Lastik Man makes my childhood awesome. 
+2. Watching Lastik Man made me happy and inspired me to help people in need because everytime Lastik Man help others he made people happy and thankful. 
+3. I also want to be like him and save people.
